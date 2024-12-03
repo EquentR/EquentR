@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EquentR&show_icons=true&theme=transparent" /> 
 </div>
 
+![](https://raw.githubusercontent.com/EquentR/EquentR/refs/heads/output/github-contribution-grid-snake.svg)
+
 <!--
 **EquentR/EquentR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
