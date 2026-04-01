@@ -1,11 +1,6 @@
 ## Hi there 👋
 - Email：`ryq2836@qq.com/ryq2836@163.com`
 
-### My Github Stat
-<div align="left" style="display: inline">
-  <img src="https://github-readme-stats.vercel.app/api?username=EquentR&show_icons=true&theme=transparent" /> 
-</div>
-
 ![](https://raw.githubusercontent.com/EquentR/EquentR/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!--
